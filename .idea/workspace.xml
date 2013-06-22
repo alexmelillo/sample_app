@@ -7,7 +7,7 @@
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Ruby Console" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371932223325" ignored="false" />
-    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371936690381" ignored="false" />
+    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371936863377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -571,7 +571,15 @@
       <created>1371936700259</created>
       <updated>1371936700259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;finish static pages&quot;">
+      <created>1371936840023</created>
+      <updated>1371936840023</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;finish static pages&quot;">
+      <created>1371936866106</created>
+      <updated>1371936866106</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
