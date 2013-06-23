@@ -7,7 +7,7 @@
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Ruby Console" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371949971777" ignored="false" />
-    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371966607098" ignored="false" />
+    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371966668694" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371942452046" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371953817791" ignored="false" />
     <file path="/routes.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371953798056" ignored="false" />
@@ -790,7 +790,11 @@
       <created>1371966610164</created>
       <updated>1371966610164</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;finish static pages&quot;">
+      <created>1371966670247</created>
+      <updated>1371966670247</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -815,7 +819,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="860" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33614865" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
