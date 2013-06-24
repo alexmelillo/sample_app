@@ -7,7 +7,7 @@
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Ruby Console" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1372058209277" ignored="false" />
-    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371966668694" ignored="false" />
+    <file path="/Dummy.txt" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1372058373061" ignored="false" />
     <file path="/static_pages_spec.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371942452046" ignored="false" />
     <file path="/static_pages_controller.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371953817791" ignored="false" />
     <file path="/routes.rb" changelist="6488fc7a-7605-47fb-a864-09b4c16e879a" time="1371953798056" ignored="false" />
@@ -818,7 +818,11 @@
       <created>1371966670247</created>
       <updated>1371966670247</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;basic user module&quot;">
+      <created>1372058377592</created>
+      <updated>1372058377592</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -907,7 +911,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;finish static pages&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;basic user module&quot;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -924,6 +928,7 @@
     <MESSAGE value="&quot;initial commit&quot;" />
     <MESSAGE value="&quot;add a staticpages controller&quot;" />
     <MESSAGE value="&quot;finish static pages&quot;" />
+    <MESSAGE value="&quot;basic user module&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
